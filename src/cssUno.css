@@ -1,0 +1,32 @@
+html{
+	
+	background-image: url("blu.jpg");
+
+	
+}
+
+#titoloPagina {
+	
+	
+}
+#barraDiRicerca{
+	width: 100%;
+	border: none;
+	background: #488AC7;
+    color: white;
+
+	}
+	
+.layoutSimone{
+	background: #488AC7;
+    color: white;
+    margin: auto;
+    text-align: center;
+	}
+	
+#scatole{
+    width: 30%;
+	display: inline;
+	color: red;
+	
+	}
